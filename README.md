@@ -59,4 +59,5 @@ The dashboard was built using the following tools and technologies:
 
 6. Screenshots / Demos
    Show what dashboard looks like.
-   Example:1[Dashboard Preview](https://github.com/guleriarohit365-prog/HR-ANALYTICS-DASHBOARD/blob/main/Snapshot%20of%20the%20Dashboard.png)
+   
+   Example:[Dashboard Preview](https://github.com/guleriarohit365-prog/HR-ANALYTICS-DASHBOARD/blob/main/Snapshot%20of%20the%20Dashboard.png)
